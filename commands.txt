@@ -1,0 +1,52 @@
+$ cat prueba.txt
+concatenar
+
+
+
+$ ls /home/directorio
+listar
+
+
+
+$ cd /home/ejercicios
+change directory
+(bajar un nivel)
+
+cd ..
+(subir un nivel)
+
+
+$ touch /home/prueba1.txt
+-crea archivo de prueba
+
+
+$ mkdir /home/ejercicios
+make directory
+
+
+$ cp /home/prueba.txt /home/respaldo/prueba.txt
+copy
+
+$ cp -r /home/ejercicios /home/respaldos/
+copy recursiva  (todo lo que hay dentro)
+
+
+$ mv /home/prueba.txt /home/respaldos/prueba2.txt
+move
+
+
+$ rm /home/prueba.txt
+remove
+
+pwd
+print working directory 
+
+$ clear
+limpiar terminal 
+
+$ man clear
+limpiar terminal con una documentación completa de todos los comandos
+
+
+
+
